@@ -1,0 +1,22 @@
+/* slectores de etuiqueta */
+h1{
+    color: chocolate;
+}
+       /* cosas de familia */
+section article h1{
+    color: bisque;
+}
+
+/* selector de clase */
+.text-alert{
+    color: coral;
+}
+
+/* selector de id */
+#papa{
+    color: lime;
+}
+
+body{
+    background-image:
+}
